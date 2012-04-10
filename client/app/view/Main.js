@@ -11,6 +11,9 @@ Ext.define("SenchaTalk.view.Main", {
     		},
     		{
     			xtype: 'buddypanel'
+    		},
+    		{
+    			xtype: 'chatpanel'
     		}
     	]
     }
